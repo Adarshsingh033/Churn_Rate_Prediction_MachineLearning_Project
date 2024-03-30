@@ -4,10 +4,10 @@ This project aims to predict customer churn using machine learning techniques, s
 <br>
 <h2>Overview</h2>
 <br>
-Problem: Customer churn negatively impacts business revenue and growth.
-Solution: Utilize machine learning to predict churn and implement targeted retention strategies.
-Approach: Train an XGBoost classifier on historical customer data to predict churn probability.
-Benefits: Enhance customer retention, optimize resources, and improve business profitability.
+Problem: Customer churn negatively impacts business revenue and growth.<br>
+Solution: Utilize machine learning to predict churn and implement targeted retention strategies.<br>
+Approach: Train an XGBoost classifier on historical customer data to predict churn probability.<br>
+Benefits: Enhance customer retention, optimize resources, and improve business profitability.<br>
 <br>
 <h2>Key Features</h2>
 <br>
