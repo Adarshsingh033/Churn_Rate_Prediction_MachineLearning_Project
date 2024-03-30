@@ -1,4 +1,4 @@
-##Churn Rate Prediction
+<h1>Churn Rate Prediction</h1>
 This project aims to predict customer churn using machine learning techniques, specifically XGBoost. By analyzing customer data, it helps businesses identify potential churners and take proactive measures for customer retention.
 
 ###Overview
