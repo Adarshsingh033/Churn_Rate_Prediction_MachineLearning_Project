@@ -11,14 +11,14 @@ Benefits: Enhance customer retention, optimize resources, and improve business p
 <br>
 <h2>Key Features</h2>
 <br>
-Predictive Modeling: Utilizes XGBoost algorithm for accurate churn prediction.
-Data Preprocessing: Handles data cleaning, feature engineering, and encoding categorical variables.
-Web Application: Includes a Flask web app for user-friendly churn predictions.
-Scalability: Capable of handling large datasets and scalable for real-time predictions.
+Predictive Modeling: Utilizes XGBoost algorithm for accurate churn prediction.<br>
+Data Preprocessing: Handles data cleaning, feature engineering, and encoding categorical variables.<br>
+Web Application: Includes a Flask web app for user-friendly churn predictions.<br>
+Scalability: Capable of handling large datasets and scalable for real-time predictions.<br>
 <br>
 <h2>Usage</h2>
 <br>
-Install dependencies: pip install -r requirements.txt
+Install dependencies: pip install -r requirements.txt<br>
 Run the Flask web app: python app.py
 <br>
 <h2>Dataset</h2>
@@ -30,6 +30,6 @@ Ensure data confidentiality and compliance with privacy regulations when handlin
 <br>
 Incorporate additional machine learning algorithms for ensemble modeling.
 Implement automated model retraining for improved performance over time.
-Enhance the web application with interactive visualizations and analytics.
-###Contributors
-Adarsh Singhn
+Enhance the web application with interactive visualizations and analytics.<br>
+<h2>Contributors</h2>
+Adarsh Singh
